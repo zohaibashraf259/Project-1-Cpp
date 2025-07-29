@@ -1,5 +1,3 @@
-// Ask the user name and age
-
 #include <iostream>
 using namespace std;
 
